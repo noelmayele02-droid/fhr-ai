@@ -1,4 +1,6 @@
 # FHR-AI — Classification réelle du Rythme Cardiaque Fœtal (CTG)
+# Lien site en streamlit : https://fhr-ai-fsptclradc6hh652uu9agk.streamlit.app/
+# Lien site sur Netlify : https://fhr-ai.netlify.app/
 
 Projet inspiré de l'initiative **AIM-CTG** (GHICL / BPI France — Grand Défi IA & Santé) :
 entraîner une IA capable d'analyser le rythme cardiaque fœtal (RCF/CTG) pour aider
